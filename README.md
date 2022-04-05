@@ -9,3 +9,6 @@ jpeg decoder implementation for Advanced C++ course at the HSE University
 
 #### decoder files
 в этих файлах реализован сам декодер
+
+#### image.h
+файл с классом, содержащим информацию о декодированном изображении
