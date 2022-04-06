@@ -2,13 +2,13 @@
 jpeg decoder implementation for Advanced C++ course at the HSE University
 
 #### huffman files
-в этих файлах реализовано построение дерева кодов Хаффмана
+building a huffman tree
 
 #### fft files
-в этих файлах реализовано IDCT (обратное дискретное косинусное преобразование) при помощи FFTW
+implementation of the inverse discrete cosine transform (IDCT) using the FFTW library
 
 #### decoder files
-в этих файлах реализован сам декодер
+implementation of the decoder
 
 #### image.h
-файл с классом, содержащим информацию о декодированном изображении
+this file contains a class with information about the decoded image
